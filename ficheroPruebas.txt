@@ -1,1 +1,1 @@
-en master tengo esta linea 1 en ficheroPruebas
+en pruebas tengo esta linea 1 en ficheroPruebas
