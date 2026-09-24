@@ -1,1 +1,1 @@
-Contenido de la funcionalidad que quiero probar
+en master tengo esta linea 1 en ficheroPruebas
